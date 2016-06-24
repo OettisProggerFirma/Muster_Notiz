@@ -1,0 +1,30 @@
+
++ GUI
+ - eigene Elemente bauen
+ - Borders
+
++ Collections
+ - auch in Array umwandeln und zurück (z.B. zur anzeige in einer JList)
+
+
++ Klassen und Interfaces
+ - Comparator<T>, Comparable<T>
+ - Innere Klassen
+
++ Statische Methoden / Klassenmethoden
+
++ Exceptions
+ - werfen (throw...)
+ - deklarieren (throws...)
+ - fangen ( try-catch, einschl. try-with-resources)
+
+
++ Streams
+ - lesen, schreiben
+ - try-with-resources
+
+ + String-Zeugs
+ - split() & co. ... irgendwas lustiges wollen wir ja schließlich mit unseren Daten machen
+
+
+ ... und wie immer: Neue Dinge :-)
