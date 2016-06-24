@@ -11,7 +11,7 @@ public class NotizenSpeicher {
     private final String dateiName;
 
     public NotizenSpeicher() {
-        this.dateiName = "notizen2.note";
+        this.dateiName = "notizen.note";
     }
 
     public List<Notiz> laden() throws IOException {
